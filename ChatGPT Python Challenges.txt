@@ -1,0 +1,25 @@
+Python Challenges by ChatGPT
+
+Certainly! Here are some Python challenges for you to practice your programming skills:
+
+1. FizzBuzz: Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz".
+
+2. Palindrome Checker: Write a function that takes a string as input and checks whether it is a palindrome (reads the same forwards and backwards). Return True if it is, and False otherwise.
+
+3. Prime Number Generator: Write a function that generates prime numbers up to a given limit. The function should take an integer as input and return a list of prime numbers up to that limit.
+
+4. Hangman Game: Create a program that allows a user to play the game of Hangman. The program should randomly select a word from a list of words, and the user should try to guess the word by guessing individual letters. Provide feedback on correct and incorrect guesses.
+
+5. Fibonacci Sequence: Write a function that generates the Fibonacci sequence up to a given number of terms. The function should take an integer as input and return a list of Fibonacci numbers.
+
+6. File Word Counter: Write a program that reads a text file and counts the frequency of each word in the file. Print the word along with its count, sorted by the count in descending order.
+
+7. Sudoku Solver: Write a program that solves a given Sudoku puzzle. The input can be a 9x9 grid with some pre-filled numbers, and the program should fill in the missing numbers to solve the puzzle.
+
+8. Web Scraper: Write a program that scrapes data from a website of your choice. Extract relevant information from the website's HTML and save it to a file or display it in a meaningful way.
+
+9. Sorting Algorithms: Implement various sorting algorithms such as bubble sort, insertion sort, merge sort, or quicksort. Test the algorithms on different-sized input arrays and compare their performance.
+
+10. Object-Oriented Programming: Create a class hierarchy for a simple game, such as a game with different types of characters and abilities. Implement methods and attributes specific to each class, and simulate interactions between objects.
+
+These challenges cover a range of concepts and can help you improve your Python skills. Have fun exploring them and enhancing your programming abilities!
